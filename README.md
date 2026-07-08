@@ -32,9 +32,11 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0069-sqrtx) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Array
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0035-search-insert-position) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
