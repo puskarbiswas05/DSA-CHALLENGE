@@ -35,6 +35,7 @@
 | [0069-sqrtx](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1539-kth-missing-positive-number) |
 ## Array
@@ -45,6 +46,7 @@
 | [0035-search-insert-position](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1539-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
