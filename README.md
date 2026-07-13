@@ -41,6 +41,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1552-magnetic-force-between-two-balls) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Array
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1552-magnetic-force-between-two-balls) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Dynamic Programming
 |  |
 | ------- |
