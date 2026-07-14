@@ -49,6 +49,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0042-trapping-rain-water) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0410-split-array-largest-sum](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0410-split-array-largest-sum) |
@@ -61,6 +62,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0042-trapping-rain-water) |
 | [0410-split-array-largest-sum](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -79,5 +81,14 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
