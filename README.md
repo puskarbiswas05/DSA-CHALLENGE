@@ -81,6 +81,7 @@
 | ------- |
 | [1552-magnetic-force-between-two-balls](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1859-sorting-the-sentence](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1859-sorting-the-sentence) |
+| [2785-sort-vowels-in-a-string](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/2785-sort-vowels-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -102,6 +103,7 @@
 | [1108-defanging-an-ip-address](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1859-sorting-the-sentence) |
+| [2785-sort-vowels-in-a-string](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/2785-sort-vowels-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
