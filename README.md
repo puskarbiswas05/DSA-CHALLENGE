@@ -9,10 +9,12 @@
 | [0069-sqrtx](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0415-add-strings) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0415-add-strings) |
 ## Number Theory
 |  |
 | ------- |
@@ -100,6 +102,7 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0415-add-strings) |
 | [1108-defanging-an-ip-address](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1859-sorting-the-sentence) |
