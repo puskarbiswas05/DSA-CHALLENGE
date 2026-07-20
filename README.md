@@ -106,6 +106,7 @@
 | [0013-roman-to-integer](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0013-roman-to-integer) |
 | [0409-longest-palindrome](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0415-add-strings) |
+| [0459-repeated-substring-pattern](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0459-repeated-substring-pattern) |
 | [1108-defanging-an-ip-address](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1108-defanging-an-ip-address) |
 | [1392-longest-happy-prefix](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1392-longest-happy-prefix) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -129,6 +130,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0459-repeated-substring-pattern) |
 | [1392-longest-happy-prefix](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
