@@ -107,6 +107,7 @@
 | [0409-longest-palindrome](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0415-add-strings) |
 | [1108-defanging-an-ip-address](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1108-defanging-an-ip-address) |
+| [1392-longest-happy-prefix](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1392-longest-happy-prefix) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1859-sorting-the-sentence) |
 | [2785-sort-vowels-in-a-string](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/2785-sort-vowels-in-a-string) |
@@ -121,4 +122,16 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0003-longest-substring-without-repeating-characters) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1392-longest-happy-prefix) |
+## String Matching
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
