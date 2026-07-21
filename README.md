@@ -89,6 +89,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0011-container-with-most-water) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Stack
@@ -104,6 +105,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0409-longest-palindrome](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0459-repeated-substring-pattern) |
@@ -130,6 +132,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0459-repeated-substring-pattern) |
 | [1392-longest-happy-prefix](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
