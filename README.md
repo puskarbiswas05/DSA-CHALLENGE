@@ -53,6 +53,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0046-permutations) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0238-product-of-array-except-self) |
@@ -145,4 +146,8 @@
 | ------- |
 | [0214-shortest-palindrome](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1392-longest-happy-prefix) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
