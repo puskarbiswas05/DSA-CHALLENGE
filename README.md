@@ -110,6 +110,7 @@
 | [0409-longest-palindrome](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0686-repeated-string-match) |
 | [1108-defanging-an-ip-address](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1108-defanging-an-ip-address) |
 | [1392-longest-happy-prefix](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1392-longest-happy-prefix) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -137,6 +138,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
