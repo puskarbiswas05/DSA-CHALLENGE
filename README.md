@@ -11,11 +11,13 @@
 | [0231-power-of-two](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0415-add-strings) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0415-add-strings) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -31,6 +33,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0231-power-of-two) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -67,6 +70,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1552-magnetic-force-between-two-balls) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Dynamic Programming
 |  |
@@ -156,4 +160,8 @@
 | [0046-permutations](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0090-subsets-ii) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
