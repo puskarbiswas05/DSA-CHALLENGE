@@ -53,6 +53,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -128,6 +129,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0013-roman-to-integer) |
 | [0409-longest-palindrome](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0409-longest-palindrome) |
