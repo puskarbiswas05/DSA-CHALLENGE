@@ -18,6 +18,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0415-add-strings) |
+| [0844-backspace-string-compare](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0844-backspace-string-compare) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Number Theory
 |  |
@@ -111,11 +112,13 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0844-backspace-string-compare) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0042-trapping-rain-water) |
+| [0844-backspace-string-compare](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
@@ -135,6 +138,7 @@
 | [0415-add-strings](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0686-repeated-string-match) |
+| [0844-backspace-string-compare](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1108-defanging-an-ip-address](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1108-defanging-an-ip-address) |
 | [1392-longest-happy-prefix](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1392-longest-happy-prefix) |
