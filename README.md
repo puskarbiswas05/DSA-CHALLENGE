@@ -125,6 +125,7 @@
 | [0042-trapping-rain-water](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0085-maximal-rectangle) |
+| [0155-min-stack](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -206,4 +207,8 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0085-maximal-rectangle) |
 | [2965-find-missing-and-repeated-values](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/2965-find-missing-and-repeated-values) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
