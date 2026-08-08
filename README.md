@@ -75,6 +75,7 @@
 | [0238-product-of-array-except-self](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0410-split-array-largest-sum) |
+| [0503-next-greater-element-ii](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0875-koko-eating-bananas) |
@@ -132,6 +133,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0155-min-stack) |
+| [0503-next-greater-element-ii](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -143,6 +145,7 @@
 | [0042-trapping-rain-water](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0085-maximal-rectangle) |
+| [0503-next-greater-element-ii](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## String
