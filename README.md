@@ -66,6 +66,7 @@
 | [0035-search-insert-position](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0046-permutations) |
+| [0075-sort-colors](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0085-maximal-rectangle) |
@@ -109,6 +110,7 @@
 | ------- |
 | [0015-3sum](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0075-sort-colors) |
 | [1552-magnetic-force-between-two-balls](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1859-sorting-the-sentence](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1859-sorting-the-sentence) |
 | [2785-sort-vowels-in-a-string](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/2785-sort-vowels-in-a-string) |
@@ -120,6 +122,7 @@
 | [0018-4sum](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0287-find-the-duplicate-number) |
@@ -220,4 +223,12 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0155-min-stack) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
