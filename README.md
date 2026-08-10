@@ -20,6 +20,7 @@
 | [0415-add-strings](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0844-backspace-string-compare) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2073-time-needed-to-buy-tickets](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/2073-time-needed-to-buy-tickets) |
 ## Number Theory
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 | [1539-kth-missing-positive-number](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2073-time-needed-to-buy-tickets](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/2073-time-needed-to-buy-tickets) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2965-find-missing-and-repeated-values](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
@@ -214,6 +216,7 @@
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2073-time-needed-to-buy-tickets](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/2073-time-needed-to-buy-tickets) |
 ## Matrix
 |  |
 | ------- |
