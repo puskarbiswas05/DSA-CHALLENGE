@@ -138,6 +138,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0844-backspace-string-compare) |
@@ -215,6 +216,7 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0232-implement-queue-using-stacks) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/2073-time-needed-to-buy-tickets) |
 ## Matrix
@@ -226,6 +228,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0232-implement-queue-using-stacks) |
 ## Quicksort
 |  |
 | ------- |
