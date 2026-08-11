@@ -19,6 +19,7 @@
 | [0258-add-digits](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0844-backspace-string-compare) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/2073-time-needed-to-buy-tickets) |
 ## Number Theory
@@ -85,6 +86,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1539-kth-missing-positive-number](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1552-magnetic-force-between-two-balls) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/2073-time-needed-to-buy-tickets) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -145,6 +147,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -217,6 +220,7 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0232-implement-queue-using-stacks) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/2073-time-needed-to-buy-tickets) |
 ## Matrix
