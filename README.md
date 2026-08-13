@@ -76,6 +76,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0410-split-array-largest-sum) |
 | [0503-next-greater-element-ii](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0503-next-greater-element-ii) |
@@ -192,6 +193,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0239-sliding-window-maximum) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -220,6 +222,7 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0239-sliding-window-maximum) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/2073-time-needed-to-buy-tickets) |
@@ -241,4 +244,16 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0075-sort-colors) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
