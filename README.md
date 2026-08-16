@@ -130,6 +130,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0287-find-the-duplicate-number) |
@@ -167,6 +168,7 @@
 | [0013-roman-to-integer](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0151-reverse-words-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0214-shortest-palindrome) |
 | [0344-reverse-string](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0344-reverse-string) |
