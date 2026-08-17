@@ -21,6 +21,7 @@
 | [0844-backspace-string-compare](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0844-backspace-string-compare) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2073-time-needed-to-buy-tickets](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/2073-time-needed-to-buy-tickets) |
 ## Number Theory
 |  |
@@ -152,6 +153,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -183,6 +185,7 @@
 | [1392-longest-happy-prefix](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1392-longest-happy-prefix) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1859-sorting-the-sentence) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2785-sort-vowels-in-a-string](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/2785-sort-vowels-in-a-string) |
 ## Hash Table
 |  |
