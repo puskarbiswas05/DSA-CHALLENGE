@@ -136,6 +136,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0443-string-compression) |
 | [0844-backspace-string-compare](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0844-backspace-string-compare) |
 ## Stack
 |  |
@@ -176,6 +177,7 @@
 | [0344-reverse-string](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0415-add-strings) |
+| [0443-string-compression](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0686-repeated-string-match) |
 | [0844-backspace-string-compare](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0844-backspace-string-compare) |
