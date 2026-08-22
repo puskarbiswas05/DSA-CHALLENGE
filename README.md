@@ -175,6 +175,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0151-reverse-words-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0214-shortest-palindrome) |
 | [0344-reverse-string](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0443-string-compression) |
@@ -195,6 +196,7 @@
 | [0001-two-sum](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0013-roman-to-integer) |
+| [0387-first-unique-character-in-a-string](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0409-longest-palindrome) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2965-find-missing-and-repeated-values](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/2965-find-missing-and-repeated-values) |
@@ -232,6 +234,7 @@
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0387-first-unique-character-in-a-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/2073-time-needed-to-buy-tickets) |
@@ -265,4 +268,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0239-sliding-window-maximum) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
