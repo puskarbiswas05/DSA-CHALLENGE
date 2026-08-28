@@ -282,20 +282,24 @@
 | [0100-same-tree](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0993-cousins-in-binary-tree](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0993-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0993-cousins-in-binary-tree](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0993-cousins-in-binary-tree](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0100-same-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0993-cousins-in-binary-tree) |
 <!---LeetCode Topics End-->
