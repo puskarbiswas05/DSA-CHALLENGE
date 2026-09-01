@@ -145,6 +145,7 @@
 | [0042-trapping-rain-water](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0155-min-stack) |
@@ -281,6 +282,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -299,6 +301,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -309,6 +312,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0145-binary-tree-postorder-traversal) |
