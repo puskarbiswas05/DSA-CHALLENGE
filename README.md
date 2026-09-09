@@ -13,6 +13,7 @@
 | [0415-add-strings](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0415-add-strings) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2965-find-missing-and-repeated-values](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/2965-find-missing-and-repeated-values) |
+| [3871-count-commas-in-range-ii](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/3871-count-commas-in-range-ii) |
 ## Simulation
 |  |
 | ------- |
