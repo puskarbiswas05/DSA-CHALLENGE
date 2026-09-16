@@ -319,4 +319,16 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0199-binary-tree-right-side-view) |
 | [0993-cousins-in-binary-tree](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0993-cousins-in-binary-tree) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0214-shortest-palindrome) |
+## Z Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0214-shortest-palindrome) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
