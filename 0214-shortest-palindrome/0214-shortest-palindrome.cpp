@@ -1,20 +1,19 @@
 class Solution {
 public:
     string shortestPalindrome(string s) {
-       string org=s;
-       string rev=s;
-       int size=s.size();
-       reverse(rev.begin(),rev.end());
-       s+='$';
-       s+=rev;
-       vector<int>lps(s.size(),0);
-       int pre=0,suf=1;
-       while(suf<s.size()){
+      string org=s;
+      string rev=s;
+      int size=s.size();
+      reverse(rev.begin(),rev.end());
+      s+='$';
+      s+=rev;
+      int pre=0,suf=1;
+      vector<int>lps(s.size(),0);
+      while(suf<s.size()){
            if(s[pre]==s[suf]){
             lps[suf]=pre+1;
-            pre++;
             suf++;
-
+            pre++;
            }
            else{
             if(pre==0){
@@ -23,11 +22,11 @@ public:
             }
             else{
                 pre=lps[pre-1];
+
             }
            }
-       }
-       return rev.substr(0,size-lps[s.size()-1])+org;
-        
+      }
+      return rev.substr(0,size-lps[s.size()-1])+org;
     }
     
 };
