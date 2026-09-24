@@ -70,6 +70,7 @@
 | [0035-search-insert-position](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0084-largest-rectangle-in-histogram) |
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0085-maximal-rectangle) |
 | [0410-split-array-largest-sum](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0410-split-array-largest-sum) |
 ## Greedy
@@ -343,4 +345,8 @@
 | [0450-delete-node-in-a-bst](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0701-insert-into-a-binary-search-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
