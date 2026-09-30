@@ -297,6 +297,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0938-range-sum-of-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0993-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -321,6 +322,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0938-range-sum-of-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -332,6 +334,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0938-range-sum-of-bst](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0938-range-sum-of-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0993-cousins-in-binary-tree) |
 ## Manacher
 |  |
@@ -353,6 +356,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0938-range-sum-of-bst) |
 ## Divide and Conquer
 |  |
 | ------- |
