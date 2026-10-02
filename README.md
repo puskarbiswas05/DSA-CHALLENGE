@@ -87,6 +87,7 @@
 | [0739-daily-temperatures](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0875-koko-eating-bananas) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1539-kth-missing-positive-number](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1539-kth-missing-positive-number) |
@@ -157,6 +158,7 @@
 | [0739-daily-temperatures](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -169,6 +171,7 @@
 | [0085-maximal-rectangle](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0739-daily-temperatures) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## String
 |  |
@@ -299,6 +302,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0938-range-sum-of-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0993-cousins-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -324,6 +328,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0938-range-sum-of-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0993-cousins-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -357,6 +362,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Divide and Conquer
 |  |
 | ------- |
