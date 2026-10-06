@@ -285,6 +285,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Tree
 |  |
 | ------- |
