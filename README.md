@@ -39,6 +39,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0231-power-of-two) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Binary Search
@@ -390,5 +391,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
