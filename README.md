@@ -387,4 +387,8 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
