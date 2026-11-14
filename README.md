@@ -137,6 +137,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0141-linked-list-cycle) |
@@ -397,6 +398,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0206-reverse-linked-list) |
