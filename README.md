@@ -142,6 +142,7 @@
 | [0125-valid-palindrome](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0344-reverse-string) |
@@ -213,6 +214,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0387-first-unique-character-in-a-string](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0409-longest-palindrome) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -401,6 +403,7 @@
 | [0061-rotate-list](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0237-delete-node-in-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
