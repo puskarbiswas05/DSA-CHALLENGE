@@ -208,6 +208,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1859-sorting-the-sentence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2785-sort-vowels-in-a-string](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/2785-sort-vowels-in-a-string) |
 ## Hash Table
 |  |
