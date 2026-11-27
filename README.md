@@ -216,6 +216,7 @@
 | [0001-two-sum](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0013-roman-to-integer) |
+| [0138-copy-list-with-random-pointer](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0387-first-unique-character-in-a-string](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0387-first-unique-character-in-a-string) |
@@ -406,6 +407,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/puskarbiswas05/DSA-CHALLENGE/tree/master/0206-reverse-linked-list) |
